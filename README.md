@@ -28,7 +28,8 @@
     - How well those variables describe the bike demands
 
 ## Problem Statement:
-    Problem Statement: BoomBikes, a US bike-sharing provider, has faced significant revenue declines due to the COVID-19 pandemic. To recover and gain a competitive edge post-lockdown, BoomBikes aims to understand the factors influencing the demand for shared bikes. The company seeks insights into which variables significantly predict bike demand and how well these variables explain the fluctuations in demand in the American market. This analysis will help BoomBikes prepare to meet customer needs effectively and drive future profitability.
+    
+    BoomBikes, a US bike-sharing provider, has faced significant revenue declines due to the COVID-19 pandemic. To recover and gain a competitive edge post-lockdown, BoomBikes aims to understand the factors influencing the demand for shared bikes. The company seeks insights into which variables significantly predict bike demand and how well these variables explain the fluctuations in demand in the American market. This analysis will help BoomBikes prepare to meet customer needs effectively and drive future profitability.
 
     It wishes to use the data to optimise the the demand for shared bikes in the American market based on important factors such as humidity, windspeed, weathersit, etc.
 
