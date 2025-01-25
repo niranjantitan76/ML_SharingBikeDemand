@@ -99,6 +99,9 @@ Conduct bivariate analysis to explore relationships between different variables 
 Also identify if some predictors directly have a strong association with the outcome variable
 
 # Conclusions
+
+Demand of bike depends on 'temp', 'windspeed', 'summer', 'winter', 'year', 'aug', 'sept', 'mist_cloudy' and 'light_snow_rain'.
+
  These three features contributing significantly towards explaining the demand of the shared bikes:
 
 **Temperature (0.5211):** For every unit increase in temperature, bike demand increases by 0.5211 units, holding all other factors constant. (Strong positive impact) bike-sharing service.
