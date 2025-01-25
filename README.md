@@ -27,7 +27,7 @@
     - Which variables are significant in predicting the demand for shared bikes.
     - How well those variables describe the bike demands
 
- ## Problem Statement
+ # Problem Statement
 
 > BoomBikes, a US bike-sharing provider, has faced significant revenue declines due to the COVID-19 pandemic. To recover and gain a competitive edge post-lockdown, BoomBikes aims to understand the factors influencing the demand for shared bikes. The company seeks insights into which variables significantly predict bike demand and how well these variables explain the fluctuations in demand in the American market. This analysis will help BoomBikes prepare to meet customer needs effectively and drive future profitability.
 
@@ -40,9 +40,6 @@
 - **Prepare for post-pandemic recovery:** Use the insights to prepare for increased demand after the COVID-19 lockdown ends.
 - **Gain a competitive edge:** Stand out from other service providers by better understanding and meeting customer needs.
 - **Increase profitability:** Develop strategies to accelerate revenue growth and achieve higher profits.
-
-    **So interpretation is important!**
-
 
 - What is the dataset that is being used?
 
